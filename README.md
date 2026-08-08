@@ -120,6 +120,8 @@ output/
 
 ## Screenshots
 
+## Screenshots
+
 ### Code Setup
 
 ![Code Setup](./screenshots/01_code_setup.png)
@@ -131,6 +133,7 @@ output/
 ### Successful Execution
 
 ![Successful Execution](./screenshots/03_successful_execution.png)
+
 
 ## Skills Demonstrated
 
