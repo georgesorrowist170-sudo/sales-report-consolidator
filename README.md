@@ -122,15 +122,15 @@ output/
 
 ### Code Setup
 
-![Code Setup](screenshots/01_code_setup.png)
+![Code Setup](./screenshots/01_code_setup.png)
 
 ### Processing and Reporting
 
-![Processing and Reporting](screenshots/02_processing_reporting.png)
+![Processing and Reporting](./screenshots/02_processing_reporting.png)
 
 ### Successful Execution
 
-![Successful Execution](screenshots/03_successful_execution.png)
+![Successful Execution](./screenshots/03_successful_execution.png)
 
 ## Skills Demonstrated
 
