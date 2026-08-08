@@ -120,8 +120,6 @@ output/
 
 ## Screenshots
 
-## Screenshots
-
 ### Code Setup
 
 ![Code Setup](./screenshots/01_code_setup.png)
